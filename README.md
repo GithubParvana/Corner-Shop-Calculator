@@ -1,10 +1,10 @@
 ## Corner-Shop-Calculator
-# Ever dreamed of owning a shop? 
+Ever dreamed of owning a shop? 
 
 
 ## Overview
-# This project is about how to calculate your shop's net income using Python.
-# It is a practical calculator that gives you a clear picture of your shop's financial health.
+This project is about how to calculate your shop's net income using Python.
+It is a practical calculator that gives you a clear picture of your shop's financial health.
 
 
 ## How to Use
