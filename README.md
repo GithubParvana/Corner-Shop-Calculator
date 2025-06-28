@@ -15,7 +15,7 @@ git clone  https://github.com/GithubParvana/Corner-Shop-Calculator.git
 
 
 2. Run the command:
-python net_income.py
+python **net_income.py**
 
 
 
