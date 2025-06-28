@@ -1,3 +1,5 @@
+![](image-1.png)
+
 ## Corner-Shop-Calculator
 Ever dreamed of owning a shop? 
 
